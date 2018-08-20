@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#3F51B5</color>
+    <color name="colorPrimaryDark">#AAB8C2</color>
+    <color name="colorAccent">#FF4081</color>
+    <color name="Goc">#b6b1b1</color>
+    <color name="Cuoi">#D44A3C</color>
+    <color name="mauchu">#141f38</color>
+    <color name="tablayout">#141f38</color>
+</resources>

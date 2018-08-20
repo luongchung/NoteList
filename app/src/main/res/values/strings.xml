@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name"> NOTE N7-SVMC</string>
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="chitiet">Chi tiết</string>
+    <string name="QuanlyLoai">Quản lý loại</string>
+    <string name="addLoai">Quản lý loại</string>
+    <string name="themNote">Thêm note</string>
+</resources>
